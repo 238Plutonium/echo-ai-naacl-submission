@@ -27,4 +27,4 @@ Heuristic classes in `recorded_replay/paired_runs_n35_labels.csv`:
 Guard-ON exceptions: `VIS-ZERO-03` (“Yes, I can see the slide…”) and `VIS-ZERO-21` (denied buprenorphine on a slide). These show routing/edge cases, not perfect coverage.
 
 ## Interpretation
-In these 35 synthetic cases, enabling the guard increased abstention from 3/35 to 33/35. The test measures responses to missing frames under controlled conditions.
+Larger paraphrased set (**n=35**) still shows a large abstention gap (94% vs 9%). This remains a **controlled synthetic contrast**, not a clinical trial and not a claim about archived IDs 19–21.
