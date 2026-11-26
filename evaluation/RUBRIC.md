@@ -1,7 +1,6 @@
-# ECHO-AI ECHO-content packet scoring rubric
+# Scoring rubric for archived ECHO-AI answers
 
-Used for the manuscript’s **M=13** ECHO-content evaluation (deployment-log answers).  
-Pooled result in the paper: **equal-weight mean 4.26 / 5** over **three human raters** (per-rater means 5.00, 4.87, 2.92 after mapping).
+Three human raters scored 13 answers from the project-team deployment log. Their mean scores were 5.00, 4.87, and 2.92 after scale conversion. The paper reports their equal-weight mean (4.26/5).
 
 ## Scale
 Scores are reported on a common **1–5** scale. One rater used a 1–3 sheet mapped linearly: \(1\!\rightarrow\!1\), \(2\!\rightarrow\!3\), \(3\!\rightarrow\!5\).
@@ -27,10 +26,7 @@ This packet is **not** the September facilitator usability session (n=4; mean 4.
 
 ## Model-graded companion (optional)
 `packet_scores.csv` / `llm_judge_m13_*` report an automatic rubric pass (same Instruct family as the formatter).  
-Treat as a **regression signal**, not clinician validation (manuscript Spearman \(\rho{=}0.34\)).
+The automated scores had a Spearman correlation of 0.34 with the human scores.
 
 ## Privacy
 Filled individual sheets stay private. This public package ships the rubric, archived Q&A, anonymized pooled summary, and offline `verify_results.py` only.
-
-## AI-tool disclosure (matches the manuscript Acknowledgments)
-Cursor was used to assist with source-code proofreading and manuscript editing.
