@@ -19,7 +19,7 @@ Health check: https://chive-shrouded-gag.ngrok-free.dev/api/status should report
 
 | Item | Location |
 | --- | --- |
-| PDF | `ECHO_AI_Demo_Paper_SUBMIT.pdf` |
+| PDF | `ECHODemo.pdf` |
 | Meeting bot | `meeting-bot/` |
 | PubMed website | `website/` |
 
