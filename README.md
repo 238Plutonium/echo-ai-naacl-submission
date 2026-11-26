@@ -10,7 +10,7 @@ Public release of ECHO-AI (original source under MIT): a Zoom RTMS meeting assis
 | Service status | https://chive-shrouded-gag.ngrok-free.dev/api/status |
 | Screencast (2:09) | https://www.youtube.com/watch?v=WwFCYDoYzm8 |
 | Full demonstration recording | https://psu.mediaspace.kaltura.com/media/t/1_0syzr0gf |
-| Manuscript | [ECHO_AI_Demo_Paper_SUBMIT.pdf](ECHO_AI_Demo_Paper_SUBMIT.pdf) |
+| Manuscript | [EchoDemo.pdf](ECHODemo.pdf) |
 | Access map | [REVIEWER_ACCESS.md](REVIEWER_ACCESS.md) |
 
 The public website exposes PubMed retrieval only. Live Zoom frames and the institutional prior-session index are not available through that interface.
